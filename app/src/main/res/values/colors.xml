@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorInitials">#FF4081</color>
+
+    <!-- Color for an earthquake with magnitude 0 and 2 -->
+    <color name="colorHengelo">#F00</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 2 and 3 -->
+    <color name="colorAlmelo">#0F0</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 3 and 4 -->
+    <color name="colorEnschede">#00F</color>
+
+    <!-- Magnitude circle color for an earthquake with magnitude between 4 and 5 -->
+    <color name="colorOther">#000</color>
+</resources>

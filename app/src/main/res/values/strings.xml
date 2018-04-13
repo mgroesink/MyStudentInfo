@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Student Info</string>
+    <string name="gender">Gender</string>
+    <string name="city">City</string>
+</resources>
